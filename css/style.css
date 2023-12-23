@@ -11,8 +11,10 @@ h3 {
 }
 
 table {
-  width: 100%;
+  width: 80%;
   border-collapse: collapse;
+  margin-left: 200px;
+  margin-bottom: 70px;
 }
 table tr:nth-child(odd) {
   background-color: #D6EEEE;
